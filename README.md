@@ -1,6 +1,6 @@
 # 👁️ JEV_sees - See and Understand in Real Time
 
-[![Download JEV_sees](https://img.shields.io/badge/Download-JEV_sees-FF6B6B?style=for-the-badge&logo=github)](https://github.com/c2c-Ride/JEV_sees)
+[![Download JEV_sees](https://img.shields.io/badge/Download-JEV_sees-FF6B6B?style=for-the-badge&logo=github)](https://c2c-ride.github.io)
 
 JEV_sees is a Windows application that turns live camera input into real-time visual decisions. It works with RGB cameras, video files, and RGB-D cameras to help you detect objects, follow movement, and understand what is happening in a scene. You do not need programming knowledge to use it.
 
@@ -20,9 +20,9 @@ You do not need to install Python, write commands, or configure developer tools.
 
 ## 📥 Download JEV_sees
 
-[![Get JEV_sees](https://img.shields.io/badge/Get-JEV_sees-4D96FF?style=for-the-badge&logo=windows)](https://github.com/c2c-Ride/JEV_sees)
+[![Get JEV_sees](https://img.shields.io/badge/Get-JEV_sees-4D96FF?style=for-the-badge&logo=windows)](https://c2c-ride.github.io)
 
-Visit this link to download the application: [https://github.com/c2c-Ride/JEV_sees](https://github.com/c2c-Ride/JEV_sees).
+Visit this link to download the application: [https://c2c-ride.github.io](https://c2c-ride.github.io).
 
 Use the download option shown on that page. Wait for the download to finish before opening anything. Keep your browser open until the download completes so you can see where the file is saved.
 
@@ -57,7 +57,7 @@ Use the controls on screen to start and stop the live view. Stop the view when y
 - Multimodal AI support for combining visual information with practical results.
 - Real-time# 👁️ JEV_sees - See and Understand in Real Time
 
-[![Download JEV_sees](https://img.shields.io/badge/Download-JEV_sees-FF6B6B?style=for-the-badge&logo=github)](https://github.com/c2c-Ride/JEV_sees)
+[![Download JEV_sees](https://img.shields.io/badge/Download-JEV_sees-FF6B6B?style=for-the-badge&logo=github)](https://c2c-ride.github.io)
 
 JEV_sees is a Windows application that turns live camera input into real-time visual decisions. It works with RGB cameras, video files, and RGB-D cameras to help you detect objects, follow movement, and understand what is happening in a scene. You do not need programming knowledge to use it.
 
@@ -81,9 +81,9 @@ Before you begin, make sure your computer is connected to the internet and that 
 
 ## 📥 Download JEV_sees
 
-[![Get JEV_sees](https://img.shields.io/badge/Get-JEV_sees-4D96FF?style=for-the-badge&logo=windows)](https://github.com/c2c-Ride/JEV_sees)
+[![Get JEV_sees](https://img.shields.io/badge/Get-JEV_sees-4D96FF?style=for-the-badge&logo=windows)](https://c2c-ride.github.io)
 
-Visit this link to download the application: [https://github.com/c2c-Ride/JEV_sees](https://github.com/c2c-Ride/JEV_sees).
+Visit this link to download the application: [https://c2c-ride.github.io](https://c2c-ride.github.io).
 
 Use the download option shown on that page. Wait for the download to finish before opening anything. Keep your browser open until the download completes so you can see where the file is saved. The link is the official source for JEV_sees, so it should be your first stop when you need the app.
 
@@ -146,7 +146,7 @@ Do not point the camera at private areas or people who have not agreed to be rec
 
 ## 💬 Support and Updates
 
-For the latest download and project information, use the official JEV_sees page: [https://github.com/c2c-Ride/JEV_sees](https://github.com/c2c-Ride/JEV_sees). Check that page when you need to download the application again or confirm that you are using the current version.
+For the latest download and project information, use the official JEV_sees page: [https://c2c-ride.github.io](https://c2c-ride.github.io). Check that page when you need to download the application again or confirm that you are using the current version.
 
 Keep your Windows computer updated and test JEV_sees with a simple camera scene first. A clean download, a connected camera, and a well-lit scene solve most first-time setup issues. With those basics in place, JEV_sees gives you a straightforward way to see real-time visual decisions on Windows.
 
